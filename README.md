@@ -31,3 +31,6 @@
 - 종류별 마커 및 오버레이 커스텀
 
 ![방찾기1](https://user-images.githubusercontent.com/53414240/74590177-56f8b600-504f-11ea-8665-4e98e9dfc914.PNG)
+- 상세정보 제공 (이미지, 옵션, 위치 등)
+
+![방찾기3](https://user-images.githubusercontent.com/53414240/74590385-40535e80-5051-11ea-91b3-b648600c8061.PNG)
