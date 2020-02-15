@@ -23,4 +23,4 @@
 ### 소개영상
 [![소개영상](https://user-images.githubusercontent.com/53414240/74589223-b69e9380-5046-11ea-8ece-40955ec18f6e.PNG)](https://www.youtube.com/watch?v=INiKFJm6bIk)
 ### 사이트 맵
-![사이트맵](https://user-images.githubusercontent.com/53414240/74589349-e13d1c00-5047-11ea-98b2-ea9ce1b9c2d0.PNG)
+![영상play](https://user-images.githubusercontent.com/53414240/74589518-55c48a80-5049-11ea-97f0-262f427a4210.png)
