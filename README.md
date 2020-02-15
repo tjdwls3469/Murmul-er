@@ -37,6 +37,7 @@
 - 신고하기 기능
 
 ![방찾기4](https://user-images.githubusercontent.com/53414240/74590442-c1aaf100-5051-11ea-9c6a-9e19dbbcd62b.PNG)
-
-
 ### 방등록 서비스
+- 방 관리 기능 (수정, 삭제, 게시종료, 거래완료)
+
+![방등록1](https://user-images.githubusercontent.com/53414240/74590487-3716c180-5052-11ea-804f-82e43334e045.PNG)
