@@ -41,3 +41,6 @@
 - 방 관리 기능 (수정, 삭제, 게시종료, 거래완료)
 
 ![방등록1](https://user-images.githubusercontent.com/53414240/74590487-3716c180-5052-11ea-804f-82e43334e045.PNG)
+- 방 등록 기능
+
+![방등록2](https://user-images.githubusercontent.com/53414240/74590531-98d72b80-5052-11ea-9f60-a8676a836925.PNG)
