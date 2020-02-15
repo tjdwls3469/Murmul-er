@@ -9,4 +9,4 @@
   - ex) 출장으로 방을 내놓거나 남는 방을 활용하고 싶은 직장인
 - 목적 : 자취방 단기 임대를 위한 전대차 계약을 도움
 ### 개발환경
-![개발환경](./E:/git/final 프로젝트/개방환경.png)
+![개발환경](https://user-images.githubusercontent.com/53414240/74587654-f3fc2480-5038-11ea-86ed-ac869eead88f.PNG)
