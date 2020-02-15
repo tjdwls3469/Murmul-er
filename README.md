@@ -22,4 +22,4 @@
 ![사용기술](https://user-images.githubusercontent.com/53414240/74588153-70910200-503d-11ea-8225-2857dd1d3ece.PNG)
 ### 소개영상
 [![사용기술](https://user-images.githubusercontent.com/53414240/74588153-70910200-503d-11ea-8225-2857dd1d3ece.PNG)](https://www.youtube.com/watch?v=INiKFJm6bIk)
-{E:\git\include .html id="INiKFJm6bIk" %}
+{% include 소개영상.html id="INiKFJm6bIk" %}
