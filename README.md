@@ -1,4 +1,6 @@
 # Murmul-er Web
-- 방 전대차 계약 중개 O2O 플랫폼
-
-<p align="center">Copyright&copy; 2019. OrganicStack. All rights reserved.</p>
+- 팀명 : Organic Stack (유기농 스택)
+- 팀명 의미 : 유기농같은 코드만 스택에 쌓자
+- 임대차 및 전대차 직거래 중개 서비스
+- 핵심 타겟 : 단기로 머물 방을 구하고 싶은 대학생과 사회초년생
+- 목적 : 자취방 단기 임대를 위한 전대차 계약을 도움
