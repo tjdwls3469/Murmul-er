@@ -21,6 +21,7 @@
 ### 사용기술
 ![사용기술](https://user-images.githubusercontent.com/53414240/74588153-70910200-503d-11ea-8225-2857dd1d3ece.PNG)
 ### 소개영상
-[![소개영상](https://user-images.githubusercontent.com/53414240/74589223-b69e9380-5046-11ea-8ece-40955ec18f6e.PNG)](https://www.youtube.com/watch?v=INiKFJm6bIk)
+[![영상play](https://user-images.githubusercontent.com/53414240/74589518-55c48a80-5049-11ea-97f0-262f427a4210.png)](https://www.youtube.com/watch?v=INiKFJm6bIk)
 ### 사이트 맵
-![영상play](https://user-images.githubusercontent.com/53414240/74589518-55c48a80-5049-11ea-97f0-262f427a4210.png)
+![사이트맵](https://user-images.githubusercontent.com/53414240/74589534-6d9c0e80-5049-11ea-83e1-3c9d56dd3d20.PNG)
+
