@@ -11,4 +11,4 @@
 ### 개발환경
 ![개발환경](https://user-images.githubusercontent.com/53414240/74587702-5fde8d00-5039-11ea-87dd-b4f2f0685721.PNG)
 ### 사용기술
-![사용기술](https://user-images.githubusercontent.com/53414240/74588079-f8c2d780-503c-11ea-9458-8726f87c59be.PNG)
+![사용기술](https://user-images.githubusercontent.com/53414240/74588153-70910200-503d-11ea-8225-2857dd1d3ece.PNG)
