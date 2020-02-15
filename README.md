@@ -44,3 +44,7 @@
 - 방 등록 기능
 
 ![방등록2](https://user-images.githubusercontent.com/53414240/74590531-98d72b80-5052-11ea-9f60-a8676a836925.PNG)
+### 리뷰 서비스
+- 리뷰작성, 정렬기능 (최신 순, 별점 순, 방음지수 순, 방충지수 순)
+
+![리뷰](https://user-images.githubusercontent.com/53414240/74590579-fff4e000-5052-11ea-939c-4c663be9bb81.PNG)
