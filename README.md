@@ -62,7 +62,7 @@
 ### 메신저
 - 메시지, 사진 주고 받기
 
-![머물톡](https://user-images.githubusercontent.com/53414240/74590878-f5881580-5055-11ea-9dcb-a7268dc03a28.png)
+![머물톡](https://user-images.githubusercontent.com/53414240/74590973-f8cfd100-5056-11ea-9181-d3183339c2d6.png)
 <br>
 
 ------
