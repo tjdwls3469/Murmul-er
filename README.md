@@ -48,3 +48,7 @@
 - 리뷰작성, 정렬기능 (최신 순, 별점 순, 방음지수 순, 방충지수 순)
 
 ![리뷰](https://user-images.githubusercontent.com/53414240/74590579-fff4e000-5052-11ea-939c-4c663be9bb81.PNG)
+### 마이페이지
+- 최근 본 목록 제공, 찜 하기 기능
+
+![마이페이지1](https://user-images.githubusercontent.com/53414240/74590648-91645200-5053-11ea-969a-04d392b5722e.PNG)
