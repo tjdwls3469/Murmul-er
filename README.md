@@ -10,3 +10,5 @@
 - 목적 : 자취방 단기 임대를 위한 전대차 계약을 도움
 ### 개발환경
 ![개발환경](https://user-images.githubusercontent.com/53414240/74587702-5fde8d00-5039-11ea-87dd-b4f2f0685721.PNG)
+### 사용기술
+![사용기술](https://user-images.githubusercontent.com/53414240/74588079-f8c2d780-503c-11ea-9458-8726f87c59be.PNG)
